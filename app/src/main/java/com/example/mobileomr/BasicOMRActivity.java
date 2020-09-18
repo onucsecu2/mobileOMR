@@ -23,12 +23,6 @@ public class BasicOMRActivity extends AppCompatActivity {
         name=(EditText)findViewById(R.id.name);
         NofQ=(EditText)findViewById(R.id.NofQ);
         save=(Button)findViewById(R.id.Save);
-
-        // TODO: 10/7/19
-//        if(!MainActivity.ans.isEmpty()){
-//
-//
-//        }
         save.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

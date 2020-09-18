@@ -195,9 +195,6 @@ public class CameraScanActivity extends Activity implements CameraBridgeViewBase
         }
         Imgproc.rectangle(mRgba,new Point(0,0),new Point(mWidth,200),new Scalar(0, 0, 255),5 );
         Imgproc.rectangle(mRgba,new Point(25,25),new Point(160,175),new Scalar(0, 0, 255),3 );
-//        Imgproc.rectangle(mRgba,new Point(0,0),new Point(mWidth,200),new Scalar(0, 0, 255),5 );
-//        Imgproc.rectangle(mRgba,new Point(0,0),new Point(mWidth,200),new Scalar(0, 0, 255),5 );
-//        Imgproc.rectangle(mRgba,new Point(0,0),new Point(mWidth,200),new Scalar(0, 0, 255),5 );
 
         return mRgba;
     }

@@ -7,4 +7,10 @@
     <color name="colorOffWhite">#E7E7E7</color>
     <color name="colorStroke">#5C5C5C</color>
     <color name="colorRed">#FD0000</color>
+    <color name="colorBlueish">#508FC4</color>
+    <color name="colorBlueTxt">#0B365A</color>
+    <color name="colorGreenish">#A704AD06</color>
+    <color name="colorGreenTxt">#006D02</color>
+    <color name="colorRadish">#91F44336</color>
+    <color name="colorRedTxt">#B10600</color>
 </resources>
